@@ -7,7 +7,8 @@ when you leave the cursor for the period of time stated in the program.
 
 
 In order to use this program you should download the pyautogui library with these command in your VS Code terminal.
-1: ```sudo apt install python#-pip```
+
+1: ```sudo apt install python3-pip```
 
 2: ```pip install pyautogui```
 
