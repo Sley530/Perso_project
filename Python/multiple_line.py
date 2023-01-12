@@ -3,7 +3,7 @@ import time
 
 time.sleep(4) # Time in second before taking action
 
-# Beginning of loop
+# Beginning of the loop
 count = 0
 
 while count <= 5: # Number of lines to display 
