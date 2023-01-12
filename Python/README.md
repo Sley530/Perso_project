@@ -17,9 +17,11 @@ In order to use this program you should download the pyautogui library with thes
 
 - Linux Ubuntu installation
 
+1: ```sudo apt update```
 1: ```sudo apt install python3-pip```
+3: ```sudo apt-get install python3-tk python3-dev```
 
-2: ```pip install pyautogui```
+4: ```pip install pyautogui```
 
 - Windows installation
 
