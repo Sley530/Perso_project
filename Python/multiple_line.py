@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-time.sleep(4) # Time in seconds before to take action
+time.sleep(4) # Time in second before to take action
 
 # Beginning of loop
 count = 0
