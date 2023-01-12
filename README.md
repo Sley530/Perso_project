@@ -1,3 +1,3 @@
 # Perso_project 
-This is a repository fir my personal and unofficial project 
-As a SE and Computer Scientist. 
+This is a repository for my personal and unofficial projects 
+As an SE and a Computer Scientist. 
