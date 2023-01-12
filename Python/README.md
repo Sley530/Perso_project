@@ -6,8 +6,10 @@ This is a simple Python program that runs multiple lines
 when you leave the cursor for the period of time stated in the program.
 
 
-In order to use this program you should download the pyautogui library with this command in your VS Code terminal.
-```pip install pyautogui```
+In order to use this program you should download the pyautogui library with these command in your VS Code terminal.
+1: ```sudo apt install python#-pip```
+
+2: ```pip install pyautogui```
 
 Enjoy!
 
