@@ -1,7 +1,8 @@
 import pyautogui
 import time
 
-time.sleep(4)
+time.sleep(4) # Time in seconds before to take action
+
 count = 0
 
 while count <= 500:
