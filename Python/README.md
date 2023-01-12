@@ -19,7 +19,7 @@ In order to use this program you should download the pyautogui library with thes
 
 1: ```sudo apt install python3-pip```
 
-2: 
+2: ```pip install pyautogui```
 
 - Windows installation
 
