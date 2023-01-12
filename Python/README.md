@@ -15,13 +15,17 @@ PyAutoGUI is cross-platform GUI automation module that works on Python 2 & 3. Yo
 
 In order to use this program you should download the pyautogui library with these command in your VS Code terminal.
 
+
 - Linux Ubuntu installation
 
 1: ```sudo apt update```
-1: ```sudo apt install python3-pip```
+
+2: ```sudo apt install python3-pip```
+
 3: ```sudo apt-get install python3-tk python3-dev```
 
 4: ```pip install pyautogui```
+
 
 - Windows installation
 
