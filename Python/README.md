@@ -14,4 +14,4 @@ In order to use this program you should download the pyautogui library with thes
 
 Enjoy!
 
-Athour: Sley
+Author: Sley
