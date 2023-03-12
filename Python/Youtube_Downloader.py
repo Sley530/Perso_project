@@ -1,5 +1,12 @@
 import os
+import tkinter as tk
 from pytube import YouTube
+from tkinter import *
+
+
+root = tk.Tk()
+root.title("Youtube Downloader!")
+root.geometry("300x150")
 
 
 def downloader(url):
@@ -8,4 +15,7 @@ def downloader(url):
     print("video downloaded")
 
 
-downloader("https://youtu.be/I7cajVnzm8k")
+button = tk.Button(root, text="Click to download!", command=lambda: downloader("https://youtu.be/tpLyWjg17kI"))
+button.pack(side="bottom")
+
+root.mainloop()
